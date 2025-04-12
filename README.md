@@ -1,8 +1,8 @@
-# 👨‍🍳 0xch3f — Cooking the Crypto 🍽️
+# 👨‍🍳 0𝒙𝑪𝒉𝒆𝒇 — Cooking the Crypto 🍽️
 
-Welcome to my kitchen of code — I’m **0xch3f**, a senior blockchain developer who cooks up cutting-edge projects on **Solana**, **Ethereum**, **Polygon**, and beyond.
+Welcome to my kitchen of code — I’m **0𝒙𝑪𝒉𝒆𝒇**, a senior blockchain developer who cooks up cutting-edge projects on **Solana**, **Ethereum**, **Polygon**, and beyond.
 
-Whether it's DeFi, NFTs, gaming, or bots, I turn raw ideas into full-course crypto meals. Think of me as the chef who crafts tasty smart contracts, spicy dApps, and smooth UIs with perfect seasoning (aka TypeScript, Rust, Next.js, and more).
+Whether it's DeFi, NFTs, gaming, or bots, I turn raw ideas into full-course crypto meals. Think of me as the 𝑪𝒉𝒆𝒇 who crafts tasty smart contracts, spicy dApps, and smooth UIs with perfect seasoning (aka TypeScript, Rust, Next.js, and more).
 
 ---
 
