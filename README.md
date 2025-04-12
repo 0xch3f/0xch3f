@@ -8,10 +8,10 @@ Think of me as the 𝑪𝒉𝒆𝒇 who’s equally comfortable in the crypto ki
 ## 🧂 My Tech Stack Specialties
 
 ### 🍜 Blockchain Dev (Web3 𝑪𝒉𝒆𝒇)
-- **Solana (Rust, Anchor)** — dApps, bots, DeFi protocols, mini-apps
-- **Ethereum & EVM (Solidity)** — ERC tokens, tax systems, staking, swaps
-- **Web3 Integration** — WalletConnect, Phantom, Metamask, Smart Contract interaction
-- **Real Projects** — Trading bots, staking platforms, crash games, NFT tools
+- **Solana (Rust, Anchor)** — dApps, bots, DeFi protocols, mini-apps, etc
+- **Ethereum & EVM (Solidity)** — ERC tokens, tax systems, staking, swaps, etc
+- **Web3 Integration** — WalletConnect, Phantom, Metamask, Smart Contract interaction, etc
+- **Real Projects** — EVM dex platforms, Solana Trading bots, crash games, NFT tools, etc
 
 ### 🍱 Full-Stack Developer (Clean Code Cuisine)
 - **Frontend Flavors:** React, Next.js, Tailwind, Sass, Chakra UI, MUI
@@ -44,7 +44,7 @@ Think of me as the 𝑪𝒉𝒆𝒇 who’s equally comfortable in the crypto ki
 
 Got a spicy idea? Or maybe you just need clean code that *works*?
 
-**DM me on Telegram: [@your_handle]**  
+**DM me on Telegram: [@its0xch3f]**  
 Or hit me up right here on GitHub. Let’s make your project unforgettable.
 
 ---
