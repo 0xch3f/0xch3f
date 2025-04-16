@@ -1,4 +1,4 @@
-# 👨‍🍳 0𝒙𝑪𝒉𝒆𝒇 — Cooking Code, Crypto & Clean UX 🍽️
+# 👨‍🍳 **0𝒙𝑪𝒉𝒆𝒇** — Cooking Code, Crypto & Clean UX! 🍽️
 
 Hey there! I’m **0xch3f**, your go-to dev for anything from full-stack web apps to blockchain wizardry.  
 Think of me as the 𝑪𝒉𝒆𝒇 who’s equally comfortable in the crypto kitchen and the full-stack bakery — cooking up slick UIs, powerful backends, and next-gen Web3 experiences.
