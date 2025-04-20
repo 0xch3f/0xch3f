@@ -45,7 +45,7 @@ Think of me as the 𝑪𝒉𝒆𝒇 who’s equally comfortable in the crypto ki
 Got a spicy idea? Or maybe you just need clean code that *works*?
 
 **DM me on Telegram: [@its0xch3f]**  
-Or hit me up right here on GitHub. Let’s make your project unforgettable.
+Let’s make your project unforgettable.
 
 ---
 
