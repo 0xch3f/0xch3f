@@ -10,8 +10,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Artificial+Intelligence;Full-Stack+Development;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" /></a>
   </p>
   
-  <a href="https://github.com/sadeepanherath"><img src="https://img.shields.io/github/followers/sadeepanherath?label=Followers&style=social" alt="GitHub Badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=sadeepanherath&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
+  <a href="https://github.com/0xch3f"><img src="https://img.shields.io/github/followers/0xch3f?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=0xch3f&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
   
 </div>
 
@@ -19,19 +19,19 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadeepanherath&theme=darkhub&title=-Followers" alt="sadeepanherath" />
+    <img src="https://github-profile-trophy.vercel.app/?username=0xch3f&theme=darkhub&title=-Followers" alt="0xch3f" />
   </a>
 </p>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xch3f&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xch3f&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sadeepanherath&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xch3f&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
@@ -95,7 +95,7 @@
   <h2>🚀 Professional Highlights</h2>
   
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepanherath&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xch3f&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
   </div>
   
   <details>
